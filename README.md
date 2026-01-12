@@ -1,7 +1,7 @@
 
 # Video Game Success Prediction
 
-This project analyzes video game sales and reviews to identify the factors that make a game successful.  
+This project analyzes video game sales to identify the factors that make a game successful.  
 We use open datasets that include information about platforms, genres, ESRB ratings, critic/user scores, and regional sales.
 
 ## Project Goals
@@ -18,14 +18,9 @@ The dataset includes:
 - **Metadata**: ESRB ratings and release info.
 
 ## Tools & Libraries
-- **Python** (pandas, numpy, matplotlib, seaborn, scikit-learn)  
+- **Python** (pandas, numpy, matplotlib, seaborn, scipy)  
 - **Jupyter Notebook** for exploration and analysis.  
 
-## Next Steps
-- Data cleaning (duplicates, missing values).  
-- Exploratory Data Analysis (EDA).  
-- Feature engineering (ratings, platforms, sales aggregation).  
-- Modeling and evaluation.  
 
----
+
 
