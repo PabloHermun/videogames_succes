@@ -23,9 +23,14 @@ The dataset includes:
 
 
 
-## Regional Sales Comparison
+## Plots
+Here are samples of the plots you can find in the notebook
 
-| | |
-|:--:|:--:|
-| ![](image_samples/historic_bars.png) | ![](image_samples/platform_boxes.png) |
-| ![](image_samples/PS3_bubles.png)    | ![](image_samples/sales_genre.png)   |
+<p align="center">
+  <img src="image_samples/historic_bars.png" height="350" width='50%'>
+  <img src="image_samples/PS3_bubles.png" height="350" width='49%'>
+</p>
+<p align="center">
+  <img src="image_samples/platform_boxes.png" height="350" width='45%'>
+  <img src="image_samples/sales_genre.png" height="350" width='50%'>
+</p>
