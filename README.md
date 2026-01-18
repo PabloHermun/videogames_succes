@@ -23,4 +23,8 @@ The dataset includes:
 
 
 
+## Regional Sales Comparison
 
+| North America | Europe | Japan |
+|--------------|--------|-------|
+| ![](images_samples/historic_bars.png) | ![](images_samples/platform_boxes.png) | ![](images_samples/PS3_bubles.png) |
